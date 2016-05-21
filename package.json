@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/osdakira/riot-js-sample/issues"
   },
-  "homepage": "https://github.com/osdakira/riot-js-sample"
+  "homepage": "https://github.com/osdakira/riot-js-sample",
+  "devDependencies": {
+    "hexo-cli": "^1.0.1"
+  }
 }
