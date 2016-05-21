@@ -14,9 +14,9 @@
     "coffee-script": "^1.10.0",
     "hexo-livereload": "^0.2.0",
     "hexo-renderer-coffeescript": "^0.2.0",
-    "hexo-renderer-jade": "^0.3.0",
+    "hexo-renderer-pug": "0.0.5",
     "hexo-renderer-sass": "^0.2.0",
-    "jade": "^1.11.0",
-    "node-sass": "^3.7.0"
+    "node-sass": "^3.7.0",
+    "pug": "^2.0.0-alpha7"
   }
 }
