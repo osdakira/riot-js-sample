@@ -9,5 +9,9 @@
     "hexo": "^3.2.0",
     "hexo-generator-index": "^0.2.0",
     "hexo-server": "^0.2.0"
+  },
+  "devDependencies": {
+    "hexo-renderer-jade": "^0.3.0",
+    "jade": "^1.11.0"
   }
 }
