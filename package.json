@@ -18,6 +18,7 @@
   "homepage": "https://github.com/osdakira/riot-js-sample",
   "devDependencies": {
     "browser-sync": "^2.12.8",
+    "jade": "^1.11.0",
     "riot": "^2.4.0"
   }
 }
