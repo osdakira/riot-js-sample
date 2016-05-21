@@ -97,3 +97,4 @@ make.js
 !.travis.yml
 build/*
 !build/.gitkeep
+!tags
