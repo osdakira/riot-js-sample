@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build_jade": "jade source/index.jade -o build",
+    "jade": "jade -w source/index.jade -o build",
+    "server": "browser-sync start --server build --files 'source/**/*'"
   },
   "repository": {
     "type": "git",
