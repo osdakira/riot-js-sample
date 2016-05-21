@@ -18,5 +18,8 @@
   "homepage": "https://github.com/osdakira/riot-js-sample",
   "devDependencies": {
     "brunch": "^2.8.0"
+  },
+  "dependencies": {
+    "jade-brunch": "^2.0.0"
   }
 }
