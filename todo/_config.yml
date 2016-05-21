@@ -78,3 +78,6 @@ node_sass:
 coffee:
   header: false
   bare: false
+
+livereload:
+  port: 35729
