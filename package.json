@@ -20,6 +20,7 @@
   "homepage": "https://github.com/osdakira/riot-js-sample",
   "devDependencies": {
     "browser-sync": "^2.12.8",
+    "coffee-script": "^1.10.0",
     "pug-cli": "^1.0.0-alpha5",
     "riot": "^2.4.0"
   }
