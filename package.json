@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "webpack"
   },
   "repository": {
     "type": "git",
@@ -16,15 +16,12 @@
     "url": "https://github.com/osdakira/riot-js-sample/issues"
   },
   "homepage": "https://github.com/osdakira/riot-js-sample",
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
-    "webpack": "^1.13.1",
-    "webpack-dev-server": "^1.14.1",
+    "coffee": "^3.2.1",
     "html-loader": "^0.4.3",
-    "slm-loader": "^0.1.1"
-  },
-  "scripts": {
-    "build": "webpack"
+    "slm-loader": "^0.1.1",
+    "webpack": "^1.13.1",
+    "webpack-dev-server": "^1.14.1"
   }
 }
