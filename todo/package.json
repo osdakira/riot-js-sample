@@ -11,7 +11,12 @@
     "start": "brunch watch --server",
     "build": "brunch build --production"
   },
-  "dependencies": {},
+  "dependencies": {
+    "coffee-script-brunch": "^2.0.0",
+    "jade-brunch": "^2.0.0",
+    "riot-brunch": "0.0.4",
+    "sass-brunch": "^2.6.3"
+  },
   "devDependencies": {
     "javascript-brunch": "^2.0.0",
     "css-brunch": "^2.0.0",
