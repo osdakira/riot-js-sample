@@ -21,6 +21,7 @@
   },
   "dependencies": {
     "jade-brunch": "^2.0.0",
+    "riot-brunch": "0.0.4",
     "sass-brunch": "^2.6.3"
   }
 }
