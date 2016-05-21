@@ -63,7 +63,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: hexo-jade-starter-master
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
@@ -81,3 +81,8 @@ coffee:
 
 livereload:
   port: 35729
+
+# Jade Compilation Options
+jade:
+  pretty: true
+  debug: true
