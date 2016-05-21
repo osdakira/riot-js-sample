@@ -95,3 +95,4 @@ make.js
 
 !.gitmodules
 !.travis.yml
+build/*.js
