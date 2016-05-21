@@ -7,5 +7,12 @@ module.exports =
         filename: 'app.bundle.js'
     module:
       loaders: [
-          { test: /\.coffee?$/, exclude: /node_modules/, loader: 'coffee-loader' }
+        { test: /\.coffee?$/, exclude: /node_modules/, loader: 'coffee-loader' }
       ]
+    plugins: [
+      new webpack.optimize.UglifyJsPlugin
+        compress:
+          warnings: false
+        output:
+          comments: false
+    ]
