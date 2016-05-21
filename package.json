@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/osdakira/riot-js-sample/issues"
   },
-  "homepage": "https://github.com/osdakira/riot-js-sample"
+  "homepage": "https://github.com/osdakira/riot-js-sample",
+  "dependencies": {
+    "webpack": "^1.13.1"
+  }
 }
