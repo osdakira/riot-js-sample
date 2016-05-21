@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/osdakira/riot-js-sample/issues"
   },
-  "homepage": "https://github.com/osdakira/riot-js-sample"
+  "homepage": "https://github.com/osdakira/riot-js-sample",
+  "devDependencies": {
+    "brunch": "^2.8.0"
+  }
 }
