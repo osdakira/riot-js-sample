@@ -12,6 +12,8 @@
   },
   "devDependencies": {
     "hexo-renderer-jade": "^0.3.0",
-    "jade": "^1.11.0"
+    "hexo-renderer-sass": "^0.2.0",
+    "jade": "^1.11.0",
+    "node-sass": "^3.7.0"
   }
 }
