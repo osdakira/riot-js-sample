@@ -11,6 +11,8 @@
     "hexo-server": "^0.2.0"
   },
   "devDependencies": {
+    "coffee-script": "^1.10.0",
+    "hexo-renderer-coffeescript": "^0.2.0",
     "hexo-renderer-jade": "^0.3.0",
     "hexo-renderer-sass": "^0.2.0",
     "jade": "^1.11.0",
