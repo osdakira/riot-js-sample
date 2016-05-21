@@ -12,3 +12,7 @@ module.exports =
       pattern: /\.tag$/  # default
       template: 'jade'
       type: 'coffeescript'
+    static_jade:                        # all optionals
+      extension:  ".static.jade"        # static-compile each file with this extension in `assets`
+      path:       [ /app(\/|\\)docs/ ]  # static-compile each file in this directories
+      asset:      "app/jade_asset"      # specify the compilation output
